@@ -1,5 +1,13 @@
 # @ai-sdk/harness-github-copilot
 
+## 1.0.61
+
+### Patch Changes
+
+- 39aae54: fix(harness): ensure harness adapters always resolve the model used
+- Updated dependencies [39aae54]
+  - @ai-sdk/harness-acp@1.0.104
+
 ## 1.0.60
 
 ### Patch Changes

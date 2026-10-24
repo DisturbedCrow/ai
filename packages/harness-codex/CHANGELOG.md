@@ -1,5 +1,11 @@
 # @ai-sdk/harness-codex
 
+## 1.0.167
+
+### Patch Changes
+
+- 39aae54: fix(harness): ensure harness adapters always resolve the model used
+
 ## 1.0.166
 
 ### Patch Changes

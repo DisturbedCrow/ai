@@ -1,5 +1,11 @@
 # @ai-sdk/harness-cline
 
+## 1.0.93
+
+### Patch Changes
+
+- 39aae54: fix(harness): ensure harness adapters always resolve the model used
+
 ## 1.0.92
 
 ### Patch Changes

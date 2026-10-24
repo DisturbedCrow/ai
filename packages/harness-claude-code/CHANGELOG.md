@@ -1,5 +1,11 @@
 # @ai-sdk/harness-claude-code
 
+## 1.0.169
+
+### Patch Changes
+
+- 39aae54: fix(harness): ensure harness adapters always resolve the model used
+
 ## 1.0.168
 
 ### Patch Changes

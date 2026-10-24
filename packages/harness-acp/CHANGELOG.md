@@ -1,5 +1,11 @@
 # @ai-sdk/harness-acp
 
+## 1.0.104
+
+### Patch Changes
+
+- 39aae54: fix(harness): ensure harness adapters always resolve the model used
+
 ## 1.0.103
 
 ### Patch Changes
